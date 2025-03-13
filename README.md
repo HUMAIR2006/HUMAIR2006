@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HUMAIR2006
 - 👀 I’m interested in coding .
 - 🌱 I’m currently learning python  
-- 📫 How to reach me ...emai;
+- 📫 How to reach me ...humairmunirawan@gmail.com
 - 😄 Pronouns: ...he\his
 -
 <!---
